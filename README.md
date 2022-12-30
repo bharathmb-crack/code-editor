@@ -2,7 +2,7 @@
 <h4>This is preview of the project.</h4>
 <br>
 
-![image](https://user-images.githubusercontent.com/87302150/204126866-0bea19fa-aa17-487b-b438-6506e4ed02bb.png)
+![image](https://media.licdn.com/dms/image/C5622AQFt4XouB83Stg/feedshare-shrink_800/0/1672395404876?e=1675296000&v=beta&t=8e9FdAJLeaGR4AUoVeEzgY0ZMNQS2c9qbRKCmg6mlLk)
 
 
 
